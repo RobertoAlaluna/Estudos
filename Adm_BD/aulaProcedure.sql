@@ -1,3 +1,5 @@
+-- Criar primeiro Cursor
+
 CREATE DATABASE IF NOT EXISTS meu_teste_db;
 USE meu_teste_db;
 
